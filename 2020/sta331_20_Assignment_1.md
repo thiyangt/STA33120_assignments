@@ -34,6 +34,11 @@ Here are just a few examples of possible use cases:
 
 - Output: results, warnings/ messages (if applicable)
 
+- Include test example(s)
+
+## Documents to submit
+
+- function in .R file (ASXXXXXXX.R)
 
 
 ## Method of Evaluation
