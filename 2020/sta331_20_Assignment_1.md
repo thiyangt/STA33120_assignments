@@ -4,13 +4,13 @@
 
 :spiral_calendar:  Date assigned: 11 August 2020
 
-Due date and time: 
+:mortar_board: **Due date and time**: 
 
-:spiral_calendar: 18 August 2020
+:spiral_calendar: **18 August 2020**
 
-:alarm_clock:     15:00
+:alarm_clock:     **15:00**
 
-How to submit: upload to the LMS.
+:school: How to submit: upload to the LMS.
 
 ----
 
